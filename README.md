@@ -20,3 +20,8 @@ Data set containing values for six biomechanical features used to classify ortho
 #### Acknowledgements
 Dua, D. and Karra Taniskidou, E. (2017). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 The original dataset was downloaded from UCI ML repository: Data: Vertebral Column Data Set http://archive.ics.uci.edu/ml/datasets/vertebral+column#
+
+#### References 
+Neto, A. R., Sousa, R., Barreto, G. D., & Cardoso, J. S. (2011). Diagnostic of Pathology on the Vertebral Column with Embedded Reject Option. Pattern Recognition and Image Analysis Lecture Notes in Computer Science, 588-595. doi:10.1007/978-3-642- 21257-4_73
+
+Tebet, M. A. (2014). Current concepts on the sagittal balance and classification of spondylolysis and spondylolisthesis. Revista Brasileira De Ortopedia (English Edition), 49(1), 3-12. doi:10.1016/j.rboe.2014.02.003
