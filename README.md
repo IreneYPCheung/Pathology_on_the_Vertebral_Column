@@ -9,8 +9,8 @@ In addition, by using Machine Learning Models can help orthopaedist to make diag
 
 Eventually, providing early intervention for Individuals with abnormal sagittal balance who are at risk of progressive spinal deformity and pain.
 
-![alt text](https://github.com/IreneYPCheung/Pathology_on_the_Vertebral_Column/lumbar-spondylolystthesis.jpg)
-![alt text](https://github.com/IreneYPCheung/Pathology_on_the_Vertebral_Column/lumbar-spondylolystthesis2.jpg)
+![image](https://github.com/IreneYPCheung/Pathology_on_the_Vertebral_Column/lumbar-spondylolystthesis.jpg)
+![image](https://github.com/IreneYPCheung/Pathology_on_the_Vertebral_Column/lumbar-spondylolystthesis2.jpg)
 
 #### Data: Vertebral Column Data Set
 http://archive.ics.uci.edu/ml/datasets/vertebral+column#
